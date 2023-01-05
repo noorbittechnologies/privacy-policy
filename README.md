@@ -8,7 +8,7 @@ Our app stores and processes personal data in the app only, that you have provid
 
 In case we where we display ads, the app is required to use third party services that declare their own Terms and Conditions.
 
-Link to Terms and Conditions of third party service providers used by the app in case we provide ads (not in all cases)
+Link to Terms and Conditions of third party service providers used by the app in case we provide ads (not in all apps)
 
 *   [AdMob](https://developers.google.com/admob/terms)
 *   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
